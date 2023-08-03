@@ -1,0 +1,9 @@
+# Idea stuff:
+.idea/
+
+## File-based project format:
+*.iws
+*.iml
+
+# Maven
+/target/
